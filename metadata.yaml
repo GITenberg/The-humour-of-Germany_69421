@@ -1,0 +1,48 @@
+_repo: The-humour-of-Germany_69421
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Brock, C. E. (Charles Edmund)
+    aliases:
+    - Brock, Charles E. (Charles Edmund)
+    - Brock, Charles Edmund
+    birthdate: 1870
+    deathdate: 1938
+    gutenberg_agent_id: '26815'
+    url: http://www.gutenberg.org/2009/agents/26815
+    wikipedia: https://en.wikipedia.org/wiki/C._E._Brock
+creator:
+  editors:
+  - agent_name: Dircks, W. H. (Will H.)
+    aliases:
+    - Dircks, Will H.
+    - Dircks, W. H. (William Henry)
+    gutenberg_agent_id: '53038'
+    url: http://www.gutenberg.org/2009/agents/53038
+  - agent_name: Müller-Casenov, Hans
+    alias: Muller-Casenov, Hans
+    gutenberg_agent_id: '55253'
+    url: http://www.gutenberg.org/2009/agents/55253
+description: ''
+gutenberg_issued: '2022-11-25'
+identifiers:
+  gutenberg: '69421'
+language: en
+pgterms:marc904: https://archive.org/details/humourofgermany00mluoft
+pgterms:marc905: 20191230194511mllercasen
+pgterms:marc906: '1892'
+pgterms:marc907: GB
+production_note: MFR, Eleni Christofaki and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: 'United Kingdom: Walter Scott Ltd.,1892.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: International humour
+subjects:
+- !lcsh 'German wit and humor'
+- !lcc 'PN'
+- GITenberg
+title: The humour of Germany
+url: http://www.gutenberg.org/ebooks/69421
