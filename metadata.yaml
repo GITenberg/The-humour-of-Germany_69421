@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '26815'
     url: http://www.gutenberg.org/2009/agents/26815
     wikipedia: https://en.wikipedia.org/wiki/C._E._Brock
+covers:
+- cover_type: archival
+  image_path: 69421-h/images/cover.jpg
 creator:
   editors:
   - agent_name: Dircks, W. H. (Will H.)
@@ -24,6 +27,8 @@ creator:
     gutenberg_agent_id: '55253'
     url: http://www.gutenberg.org/2009/agents/55253
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69421#The-humour-of-Germany
 gutenberg_issued: '2022-11-25'
 identifiers:
   gutenberg: '69421'
